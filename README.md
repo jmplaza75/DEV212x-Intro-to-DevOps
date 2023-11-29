@@ -3,8 +3,8 @@ Hi,
 
 Hope you are well
 
-This repo is a fork of Hands on Labs repository for the [edX DEV212x Intro to DevOps course](https://www.edx.org/course/introduction-devops-microsoft-dev212x-0).
-This repo contains all the source code and Hands on Lab manuals for the course.
+This repo includes the information of Hands on Labs repository for the [edX DEV212x Intro to DevOps course](https://www.edx.org/course/introduction-devops-microsoft-dev212x-0).
+This repo contains all the source code and Hands on Lab manuals for the course, extracted directly from Microsoft Learning github repository.
 
 Additionally, I have included all lectures from the diffenrent modules which are in powerpoint format.
 
